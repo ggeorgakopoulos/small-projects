@@ -1,4 +1,4 @@
 # small-projects
 A collection of small projects/ snippets of code
 
-this repository is empy
+This repository is currently empty, but pretty soon I'll begin sharing with you some small projects/snippets of code
